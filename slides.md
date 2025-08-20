@@ -22,6 +22,7 @@ section {
 
 # **The Quantum Engine**
 ## Next-Generation Data Processor
+
 ---
 
 ![bg brightness:0.4](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80)
@@ -52,5 +53,3 @@ For more detailed documentation or questions, please contact the technical writi
 **Lead Technical Writer**
 
 `23f1000687@ds.study.iitm.ac.in`
-
----
