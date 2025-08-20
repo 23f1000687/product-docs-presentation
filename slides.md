@@ -34,13 +34,20 @@ style: |
   }
 ---
 
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1974&q=80') -->
+<!-- _color: white -->
+<!-- _class: lead -->
+
 # Q2 2025 Business Analysis
 ## Data-Driven Insights
 
 ### Technical Documentation & Analysis
-**Presenter:** 23f1000687@ds.study.iitm.ac.in
+**Presenter:** 22f1000662@ds.study.iitm.ac.in
 
 ---
+
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2015&q=80') -->
+<!-- _class: invert -->
 
 # Executive Summary
 
@@ -162,15 +169,21 @@ $$\text{Efficiency Gain} = \frac{2.3 - 0.8}{2.3} \times 100\% = 65.2\%$$
 
 ---
 
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') -->
+<!-- _class: lead -->
+
 # Thank You
 ## Questions & Discussion
 
 **Contact Information:**
-- **Email:** 23f1000687@ds.study.iitm.ac.in
+- **Email:** 22f1000662@ds.study.iitm.ac.in
 - **Analytics Dashboard:** company.com/analytics
 - **Next Review:** October 15, 2025
 
 ---
+
+<!-- _paginate: false -->
+<!-- _class: invert -->
 
 ## Document Information
 
